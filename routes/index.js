@@ -6,7 +6,7 @@ router.get('/about', function(req, res, next) {
 });
 /* GET projects page. */
 router.get('/projects', function(req, res, next) {
-  res.render('projects', { title: 'Contact' });
+  res.render('projects', { title: 'Projects' });
 });
 /* GET contact page. */
 router.get('/contact', function(req, res, next) {

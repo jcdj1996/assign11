@@ -2,9 +2,13 @@ var express = require('express');
 var router = express.Router();
 /* GET about page. */
 router.get('/about', function(req, res, next) {
-  res.render('index', { title: 'About' });
+  res.render('about', { title: 'About' });
 });
-/* GET home page. */
+/* GET projects page. */
+router.get('/projects', function(req, res, next) {
+  res.render('projects', { title: 'Contact' });
+});
+/* GET contact page. */
 router.get('/contact', function(req, res, next) {
   res.render('contact', { title: 'Contact' });
 });
