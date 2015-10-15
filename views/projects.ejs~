@@ -1,4 +1,9 @@
+<!--
+Github widget by Kevin Gillieron
+https://github.com/gilliek
 
+
+-->
 <% include partials/header.ejs %>
 <script src="js/bootstrap-github-widget.js"></script>
     <div class="container">
