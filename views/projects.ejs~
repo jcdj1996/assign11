@@ -9,7 +9,7 @@ https://github.com/gilliek
     <div class="container">
 
       <div class="jumbotron">
-        <div data-toggle="github-widget" data-user="jcdj1996"></div>
+        <iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="http://jcdj1996.github.io/gh-activity/gh-activity.html?user=jcdj1996&type=user" width="300" height="300"></iframe>
       </div>
 
     </div><!-- /.container -->
