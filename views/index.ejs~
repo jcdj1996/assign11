@@ -4,7 +4,7 @@
       <div class="jumbotron">
         <h2>Home</h2>
         <p class="lead"><br> Welcome to my Portfolio!</p>
-	<p>
+	<p>While you're here, check out my code on <a href="http://github.com/jcdj1996">Github</a> </p>
       </div>
       <div class="jumbotron">
 	<h1>test</h1>
